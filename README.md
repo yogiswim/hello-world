@@ -1,5 +1,3 @@
-# hello-world
-
-stay focused
+branch read-me
 
 first git repository
